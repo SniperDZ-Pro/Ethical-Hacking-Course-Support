@@ -14,15 +14,15 @@ This hands-on challenge evaluates practical understanding of the core **CIA Tria
 
 ## Challenge Artifacts
 This directory contains the following assets:
-- `target_a.zip`
-- `target_b.zip`
+- `target_a.rar`
+- `target_b.rar`
 - `checksum.txt`
 - `key.txt`
 
 ---
 
 ## Student Mission
-1. Analyze the two archive files (`target_a.zip` and `target_b.zip`).
+1. Analyze the two archive files (`target_a.rar` and `target_b.rar`).
 2. Use cryptographic hash verification to identify which package is authentic and uncompromised.
 3. Retrieve and decode the authentication secret required to open the valid package.
 4. Extract the secret payload to verify your solution.

@@ -5,6 +5,6 @@ This repository provides course support materials for **Ethical Hacking and Syst
 ## Chapters
 
 - **Chapter 1:** Introduction to Ethical Hacking and Security Fundamentals — Available
-- **Chapter 2:** *Coming soon*
+- **Chapter 2:** Reconnaissance, Footprinting and OSINT — Available
 - **Chapter 3:** *Coming soon*
 - **Additional chapters:** *Coming soon*
